@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8993" started-at="2020-06-10T23:15:32Z" finished-at="2020-06-10T23:15:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8993" started-at="2020-06-10T23:15:32Z" finished-at="2020-06-10T23:15:41Z">
+      <class name="Com.Qa.Techlistic.TechlisiticTC">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Com.Qa.Techlistic.TechlisiticTC@23282c25]" name="SetUp" is-config="true" duration-ms="3012" started-at="2020-06-10T23:15:32Z" finished-at="2020-06-10T23:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="GetUrl()[pri:1, instance:Com.Qa.Techlistic.TechlisiticTC@23282c25]" name="GetUrl" duration-ms="1764" started-at="2020-06-10T23:15:35Z" finished-at="2020-06-10T23:15:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUrl -->
+        <test-method status="PASS" signature="VerfySignIn()[pri:2, instance:Com.Qa.Techlistic.TechlisiticTC@23282c25]" name="VerfySignIn" duration-ms="2879" started-at="2020-06-10T23:15:37Z" finished-at="2020-06-10T23:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfySignIn -->
+        <test-method status="PASS" signature="EnterPersonalINFO()[pri:3, instance:Com.Qa.Techlistic.TechlisiticTC@23282c25]" name="EnterPersonalINFO" duration-ms="1319" started-at="2020-06-10T23:15:40Z" finished-at="2020-06-10T23:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterPersonalINFO -->
+      </class> <!-- Com.Qa.Techlistic.TechlisiticTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
